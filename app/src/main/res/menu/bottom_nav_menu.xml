@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Home -->
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_launcher_background" /> <!-- Ganti dengan nama ikon Anda -->
+
+    <!-- Discussion -->
+    <item
+        android:id="@+id/nav_TopAnime"
+        android:title="Top Anime"
+        android:icon="@drawable/ic_launcher_background" />
+
+    <!-- Discover -->
+    <item
+        android:id="@+id/nav_discover"
+        android:title="Discover"
+        android:icon="@drawable/ic_launcher_background" />
+
+    <!-- Seasonal -->
+    <item
+        android:id="@+id/nav_seasonal"
+        android:title="Seasonal"
+        android:icon="@drawable/ic_launcher_background" />
+
+    <!-- My List -->
+    <item
+        android:id="@+id/nav_my_list"
+        android:title="My List"
+        android:icon="@drawable/ic_launcher_background" />
+
+</menu>
